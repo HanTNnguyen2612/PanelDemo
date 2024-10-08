@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SE Han\\PRN_Learning\\WpfApp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E56882-A50B-46A9-AF38-EA4C9E090E6F}|WpfApp5\\WpfApp5.csproj|d:\\se han\\prn_learning\\wpfapp5\\wpfapp5\\docpaneldemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{14E56882-A50B-46A9-AF38-EA4C9E090E6F}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\docpaneldemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E56882-A50B-46A9-AF38-EA4C9E090E6F}|WpfApp5\\WpfApp5.csproj|d:\\se han\\prn_learning\\wpfapp5\\wpfapp5\\gridpaneldemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{14E56882-A50B-46A9-AF38-EA4C9E090E6F}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\gridpaneldemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E56882-A50B-46A9-AF38-EA4C9E090E6F}|WpfApp5\\WpfApp5.csproj|d:\\se han\\prn_learning\\wpfapp5\\wpfapp5\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{14E56882-A50B-46A9-AF38-EA4C9E090E6F}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E56882-A50B-46A9-AF38-EA4C9E090E6F}|WpfApp5\\WpfApp5.csproj|d:\\se han\\prn_learning\\wpfapp5\\wpfapp5\\stackpaneldemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{14E56882-A50B-46A9-AF38-EA4C9E090E6F}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\stackpaneldemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E56882-A50B-46A9-AF38-EA4C9E090E6F}|WpfApp5\\WpfApp5.csproj|d:\\se han\\prn_learning\\wpfapp5\\wpfapp5\\wrappaneldemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E56882-A50B-46A9-AF38-EA4C9E090E6F}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\wrappaneldemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E56882-A50B-46A9-AF38-EA4C9E090E6F}|WpfApp5\\WpfApp5.csproj|d:\\se han\\prn_learning\\wpfapp5\\wpfapp5\\wrappaneldemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{14E56882-A50B-46A9-AF38-EA4C9E090E6F}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\wrappaneldemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocPanelDemo.xaml",
+              "DocumentMoniker": "D:\\SE Han\\PRN_Learning\\WpfApp5\\WpfApp5\\DocPanelDemo.xaml",
+              "RelativeDocumentMoniker": "WpfApp5\\DocPanelDemo.xaml",
+              "ToolTip": "D:\\SE Han\\PRN_Learning\\WpfApp5\\WpfApp5\\DocPanelDemo.xaml",
+              "RelativeToolTip": "WpfApp5\\DocPanelDemo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T03:10:55.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GridPanelDemo.xaml",
+              "DocumentMoniker": "D:\\SE Han\\PRN_Learning\\WpfApp5\\WpfApp5\\GridPanelDemo.xaml",
+              "RelativeDocumentMoniker": "WpfApp5\\GridPanelDemo.xaml",
+              "ToolTip": "D:\\SE Han\\PRN_Learning\\WpfApp5\\WpfApp5\\GridPanelDemo.xaml",
+              "RelativeToolTip": "WpfApp5\\GridPanelDemo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T03:09:45.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\SE Han\\PRN_Learning\\WpfApp5\\WpfApp5\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp5\\App.xaml",
+              "ToolTip": "D:\\SE Han\\PRN_Learning\\WpfApp5\\WpfApp5\\App.xaml",
+              "RelativeToolTip": "WpfApp5\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T03:08:15.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StackPanelDemo.xaml",
+              "DocumentMoniker": "D:\\SE Han\\PRN_Learning\\WpfApp5\\WpfApp5\\StackPanelDemo.xaml",
+              "RelativeDocumentMoniker": "WpfApp5\\StackPanelDemo.xaml",
+              "ToolTip": "D:\\SE Han\\PRN_Learning\\WpfApp5\\WpfApp5\\StackPanelDemo.xaml",
+              "RelativeToolTip": "WpfApp5\\StackPanelDemo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T03:04:49.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WrapPanelDemo.xaml.cs",
+              "DocumentMoniker": "D:\\SE Han\\PRN_Learning\\WpfApp5\\WpfApp5\\WrapPanelDemo.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp5\\WrapPanelDemo.xaml.cs",
+              "ToolTip": "D:\\SE Han\\PRN_Learning\\WpfApp5\\WpfApp5\\WrapPanelDemo.xaml.cs",
+              "RelativeToolTip": "WpfApp5\\WrapPanelDemo.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:04:27.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WrapPanelDemo.xaml",
+              "DocumentMoniker": "D:\\SE Han\\PRN_Learning\\WpfApp5\\WpfApp5\\WrapPanelDemo.xaml",
+              "RelativeDocumentMoniker": "WpfApp5\\WrapPanelDemo.xaml",
+              "ToolTip": "D:\\SE Han\\PRN_Learning\\WpfApp5\\WpfApp5\\WrapPanelDemo.xaml",
+              "RelativeToolTip": "WpfApp5\\WrapPanelDemo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T03:01:54.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
